@@ -1,2 +1,2 @@
 # hello-word
-getting used to new github cmd
+getting used to new github cmd.
